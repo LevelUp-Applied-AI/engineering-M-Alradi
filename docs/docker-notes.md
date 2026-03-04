@@ -12,6 +12,9 @@ Server: Docker Desktop 4.63.0 (220185)
 
 ## Hello World Test
 
+```bash
+docker run hello-world
+
 Hello from Docker!
 This message shows that your installation appears to be working correctly.
 
